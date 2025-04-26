@@ -1,0 +1,40 @@
+
+Postfix equation NO.{1} : 1 1 + 1 + 1 8 *+
+
+Evaluation of equation NO.{1} : 11
+
+
+Postfix equation NO.{2} : 100 3 / 2 /
+
+Evaluation of equation NO.{2} : 16
+
+
+Postfix equation NO.{3} : 100 3 %
+
+Evaluation of equation NO.{3} : 1
+
+
+Postfix equation NO.{4} : 500 2 %
+
+Evaluation of equation NO.{4} : 0
+
+
+Postfix equation NO.{5} : 40 20 /
+
+Evaluation of equation NO.{5} : 2
+
+
+Postfix equation NO.{6} : 2 20 2 /* 33 -
+
+Evaluation of equation NO.{6} : -13
+
+
+Postfix equation NO.{7} : -1 5 +
+
+Evaluation of equation NO.{7} : 4
+
+
+Postfix equation NO.{8} : 5 0 /
+
+Invalid evaluation for equation NO.{8} : Division by zero error detected!
+
